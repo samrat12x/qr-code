@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.mid{
+    font-size: 13px;
+    color: grey;
+}
+
+
+
+
+
+.box{
+   border-radius: 25px;  /*  to round the corners of the box */
+    display: inline-block;
+width: fit-content;
+background-color:white ;
+padding: 16px;
+height: fit-content;
+ margin-top: 10vh;
+}
